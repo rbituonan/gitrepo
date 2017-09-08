@@ -6,9 +6,9 @@ body { 	background-color: #ddd; color: #333;
 		font-family: "Verdana";
 }
 
-#header {}
-#mainmenu {}
-#contents {}
+#header { width: 100%; }
+#mainmenu { width: 100%; }
+#contents { width: 100%; }
 
 .student-picture { width: 100px; height: 100px; border: 1px solid #333; 
 				background-color: blue;
